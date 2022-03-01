@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apostacy punish'd: or, A new poem on the deserved death of Jonas Rowland, the renegado, lately executed at Morocco.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01422</idno>
+            <idno type="OCLC"> 11652839</idno>
+            <idno type="STC">Wing A3561</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[17]</idno>
+            <idno type="STC">ESTC R8896</idno>
+            <idno type="EEBO-CITATION">99891011</idno>
+            <idno type="PROQUEST">ocm99891011</idno>
+            <idno type="VID">182406</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182406)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Apostacy punish'd: or, A new poem on the deserved death of Jonas Rowland, the renegado, lately executed at Morocco.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.H. for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "A certain English-man, who did of late ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rowland, Jonas, d. 1682 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182406:1" rendition="simple:additions"/>
+            <head>
+               <hi>Apoſtacy Puniſh'd:</hi> OR, A New Poem on the Deſerved Death OF <hi>JONAS ROWLAND,</hi> THE RENEGADO, Lately Executed at MOROCCO.</head>
+            <l>A Certain <hi>Engliſh-man,</hi> who did of late</l>
+            <l>Change his Religion and his Chriſtian ſtate,</l>
+            <l>Becoming of a <hi>Moor</hi> and a <hi>Pagan</hi> high,</l>
+            <l>To be an Object for ſad Deſtiny;</l>
+            <l>A thing that's againſt the Rules of Nature,</l>
+            <l>To go about to deſtroy a Creature:</l>
+            <l>Since 'tis read, He that denies his Maſter here,</l>
+            <l>Will ſcarce find him when mounting through the ayr;</l>
+            <l>A caſe ſo very rare, and to ſo ſtrange,</l>
+            <l>'Twill cauſe diſcourſe upon the <hi>Old-Exchange:</hi>
+            </l>
+            <l>That ſuch a wretch in <hi>England</hi> ſhould be born.</l>
+            <l>And to become each Man and Womans ſcorn.</l>
+            <l>Surely the Planets were at variance, when</l>
+            <l>That he was born one of the Sons of Men:</l>
+            <l>Not one of them owns him, but all do ſay,</l>
+            <l>It was his will that he did go aſtray.</l>
+            <l>Thus we ſee, and ſo underſtand again,</l>
+            <l>That Man is but poor, and but born in vain:</l>
+            <l>That of all things does not get mighty grace,</l>
+            <l>To run by that gay charm his humane Race;</l>
+            <l>Elſe the Beaſts are in a better ſort than he,</l>
+            <l>And are remov'd from pain for to be free;</l>
+            <l>While vicious Man his own ruine ſeeks,</l>
+            <l>And by no means any true vertue keeps:</l>
+            <l>The Fox when he's purſu'd avoids the Snare,</l>
+            <l>As doth the Coney and the timerous Hare;</l>
+            <l>And the Mole under earth near a Country Town,</l>
+            <l>VVon't be taken till Ruſtick knocks him down:</l>
+            <l>The Sparrow and the Lark, even they</l>
+            <l>The Fowlers Net and Gin they won't obey;</l>
+            <l>And the Horſe too, by Natures potent force,</l>
+            <l>VVithout all danger moves on his wonted courſe.</l>
+            <l>Thus Birds and Beaſts all of them diſcover,</l>
+            <l>From Duck to Drake, from Pheaſant to the Plover;</l>
+            <l>How they avoid Ill, and ſo ſeek their Good,</l>
+            <l>By Natures light, and ſpecies of their Blood;</l>
+            <l>But only Man, that ſilly Creature, he</l>
+            <l>Seeks not by Reaſons way for to be free.</l>
+            <pb n="2" facs="tcp:182406:2"/>
+            <l> But ſtill purſues ſuch courſes as be ſad,</l>
+            <l>And ſo the World does ſee he's only Mad:</l>
+            <l>An experienced thing which we do know,</l>
+            <l>Demonſtrated by this the <hi>Renegado;</hi>
+            </l>
+            <l>Who from his Maſter run, becauſe did fear,</l>
+            <l>His Guilt might let him Blood when at <hi>Tangier:</hi>
+            </l>
+            <l>His Soul did give him, the moſt high Alarms,</l>
+            <l>For all his Miſtris, and her potent Charms;</l>
+            <l>Guilt like a Conjurer when his Spirit does raiſe,</l>
+            <l>Another Artiſt can't lay it by his ways:</l>
+            <l>So Vengeance did this Villain purſue,</l>
+            <l>To make the power of Heaven in all things true;</l>
+            <l>That it and it alone, has now of late,</l>
+            <l>Made him to dye a death Unfortunate:</l>
+            <l>I would not had him come to an untimely end,</l>
+            <l>'Twas the deſire of every Man and Friend;</l>
+            <l>Yet it was much to be feared, ſoon or late,</l>
+            <l>That Fate would o're-take him in his Mooriſh ſtate,</l>
+            <l>To make him an Example of, that all</l>
+            <l>May eſcape Heavens anger, great and ſmall;</l>
+            <l>That men from their Religion may not turn,</l>
+            <l>But rather dye, or rather chuſe to burn:</l>
+            <l>Heaven grant amidſt all our Knowledge high,</l>
+            <l>May know thee ſo well, ſhall we live and dye?</l>
+            <l>Then let what will come, or what ſhew its face,</l>
+            <l>The <hi>Saint</hi> in Raggs is yet in Golden Lace:</l>
+            <l>And he only is the mighty happy Man,</l>
+            <l>That ſtill continues a good Chriſtian:</l>
+            <l>A Favourite to the Powers above and below,</l>
+            <l>As water by winds are toſſed too and fro:</l>
+            <l>VVhile other men that their own ways purſue,</l>
+            <l>They have not converſation, nor things true;</l>
+            <l>But careleſs are, and that of their dear life,</l>
+            <l>And ſo move on in great and dayly ſtrife,</l>
+            <l>In mighty pains and travels of the brain,</l>
+            <l>In very ſmall eſteem, and leſſer fame,</l>
+            <l>Till Death he comes and ſets the buſineſs right,</l>
+            <l>And draws the Curtain of the gloomy Night,</l>
+            <l>And plants them in Regions high and low,</l>
+            <l>For thither all mankind they ſtill muſt go.</l>
+            <l>Thus have I drawn the ſtory here at large,</l>
+            <l>By way of Figure, and from Natures charge,</l>
+            <l>That none of us ſuch evils ſhould commit,</l>
+            <l>Leaſt to by Fate we alſo ſhould be hit:</l>
+            <l>For if in Vice we do our Anchor caſt,</l>
+            <l>The Pitcher will come broken home at laſt;</l>
+            <l>Then all is loſt, and every Man undone</l>
+            <l>For ever and ever, beyond the brighter <hi>Sun:</hi>
+            </l>
+            <l>Therefore let each man his Conſcience keep clean,</l>
+            <l>Then will its Viſion by the world be ſeen,</l>
+            <l>And he himſelf be happy while below,</l>
+            <l>Till that to Heaven and its joys does go.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>T. H.</hi> for the Author. 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
